@@ -1,6 +1,8 @@
 
 # RealtimeDatabaseFaceDetectionAttendanceSystem-LAMBDA
 
+RealtimeDatabaseFaceDetectionAttendanceSystem-LAMBDA is a real-time attendance system that uses face detection technology to track attendance in a database. The system works by capturing live video of individuals and comparing them to images in a pre-existing encoded database to determine if they are authorized or not. if they are, them attandance will be marked.
+
 In the RealtimeDatabaseFaceDetectionAttendanceSystem-LAMBDA project, Python is used to develop the facial recognition algorithms and to interact with the camera or other input devices that capture images of individuals. Firebase, on the other hand, is used as a cloud-based backend to store and manage the attendance data.
 
 The use of Firebase allows for real-time synchronization and data management across multiple devices or locations, making it a convenient choice for a live attendance tracking system. Additionally, Firebase offers built-in authentication and security features, which can help ensure that the attendance data is secure and only accessible to authorized users.
