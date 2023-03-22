@@ -29,7 +29,7 @@ face-recognition
 
 <img src="/Resources/background.png">
 
-<img src="/Resources/Demo%20-RealtimeDatabaseFaceDetectionAttendanceSystem-LAMBDA.gif">
+<img src="/Resources/Demo%20-RealtimeDatabaseFaceDetectionAttendanceSystem-LAMBDA-.gif">
 
 
 ## License
