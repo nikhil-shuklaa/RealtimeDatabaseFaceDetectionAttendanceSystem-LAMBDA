@@ -24,6 +24,9 @@ cmake
 dlib
 cvzone
 face-recognition
+opencv-python
+firebase
+firebase-admin
 ```
 
 
