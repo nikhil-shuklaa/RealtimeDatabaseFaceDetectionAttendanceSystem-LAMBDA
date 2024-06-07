@@ -32,9 +32,7 @@ firebase-admin
 
 ## Demo
 
-<img src="/Resources/background.png">
-
-<img src="/Resources/Demo%20-RealtimeDatabaseFaceDetectionAttendanceSystem-LAMBDA-.gif">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYW9hN3N6bjkycGJwOWVzOTdveGVjbjFkMG14NndxNG5iZ2VwYWRobyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CoD8Ejb2wqkY23f6iF/source.gif">
 
 
 ## License
